@@ -1,5 +1,7 @@
-Dmitry Zamaraev. 
-Contact info: email: zamaraev-dmitriy@mail.ru 
+Dmitry Zamaraev.
+
+Contact info: email: zamaraev-dmitriy@mail.ru Diskord: Dimidrol  My VKid: zamaraev94
+
 I came to this course to become a Junior web developer. This is my main goal. I don't look at obstacles, I focus on the goal. 
 I think high technology is our future. 
 Skills: HTML CSS JS basic knowledge.I have just embarked on the path of getting the necessary skills 
