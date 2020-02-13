@@ -8,4 +8,4 @@ I came to this course to become a Junior web developer. This is my main goal. I 
 
 Skills: HTML CSS JS basic knowledge. I have just embarked on the path of getting the necessary skills. 
 Experience: concern “Kalashnikov” - Russia,Consultant of ERP systems Personnel training; Izhevsk radio plant JSC-technical supervision Engineer
-Education: Higher technical education. Izhevsk State Agricultural Academy. English: My level of English is A1+. I learn English every day. I want to understand native speakers and get an interview in Epam.
+Education: Higher technical education. Izhevsk State Agricultural Academy. Mechanical engineer. English: My level of English is A1+. I learn English every day. I want to understand native speakers and get an interview in Epam.
