@@ -1,1 +1,1 @@
- https://ZamaraevDmitriy.github.io/rsschool-cv/cv
+ https://ZamaraevDmitriy.github.io/rsschool-cv/
